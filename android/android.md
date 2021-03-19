@@ -1,5 +1,5 @@
 # Welcome Master Research For Android Developer
 
-- [Activity](android/activity.md)
+- [Activity](activity.md)
 
-- [Lifecycle](android/lifecycle.md)
+- [Lifecycle](lifecycle.md)
